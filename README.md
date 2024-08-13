@@ -45,7 +45,7 @@ bun install
 4. **Run development server**
 
 ```shell
-bun --bun dev
+bun --bun start
 ```
 
 The server will run on port 4000.
